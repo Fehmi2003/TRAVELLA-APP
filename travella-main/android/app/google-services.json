@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "167938253702",
+    "firebase_url": "https://travella-firebase-5f0cb-default-rtdb.firebaseio.com",
+    "project_id": "travella-firebase-5f0cb",
+    "storage_bucket": "travella-firebase-5f0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167938253702:android:d2a8c4924a074297844207",
+        "android_client_info": {
+          "package_name": "com.example.travella_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167938253702-2ju15a5sifvk4q2jr60gnc6n58dv7tda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travella_01",
+            "certificate_hash": "207a5763fc00ba03cb3daa0b7293506567f39b72"
+          }
+        },
+        {
+          "client_id": "167938253702-3e1pkr2bhc6m529jockanbbjmqk86t8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvjnuObDGJ8Zs2Pac99JLFqDlxtIgeuCs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167938253702-3e1pkr2bhc6m529jockanbbjmqk86t8r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "167938253702-nnlv48uhk8dqg1d31rntfakndkamu6lk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travella01"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
