@@ -1,16 +1,16 @@
 # travella_01
 
-A new Flutter project.
+ENG VERSİON
+We wrote a project in Flutter using the Dart scripting language. 
+The purpose of this project: Users who want to take a vacation,
+travel or do research are able to choose places according to their taste and continue their search.
+There are many pages in our application, including registration screen, customizable profile page, google maps and search section.
+This application was ranked 25th in Turkey in the category of Tourism Technologies at TEKNOFEST 2022.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TR VERSİYONU
+Dart kodlama dilini kullanarak Flutter'da bir proje yazdık.
+Bu projenin amacı: Tatil yapmak isteyen kullanıcılar,
+gezmek ya da araştırma yapmak isteyenler zevklerine göre yer seçip arayışlarına devam edebiliyorlar.
+Uygulamamızda kayıt olma ekranı, kişiselleştirilebilen profil sayfası, google maps ve arama kısmı dahil bir sürü sayfa mevcuttur.
+Bu uygulama TEKNOFEST 2022' de Turizm Teknolojileri kategorisinde Türkiye 25.si olmuştur.
