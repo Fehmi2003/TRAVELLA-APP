@@ -1,6 +1,7 @@
 # travella
 
-ENG VERSİON
+ENG VERSİON: 
+
 We wrote a project in Flutter using the Dart scripting language. 
 The purpose of this project: Users who want to take a vacation,
 travel or do research are able to choose places according to their taste and continue their search.
@@ -8,7 +9,8 @@ There are many pages in our application, including registration screen, customiz
 This application was ranked 25th in Turkey in the category of Tourism Technologies at TEKNOFEST 2022.
 
 
-TR VERSİYONU
+TR VERSİYONU:
+
 Dart kodlama dilini kullanarak Flutter'da bir proje yazdık.
 Bu projenin amacı: Tatil yapmak isteyen kullanıcılar,
 gezmek ya da araştırma yapmak isteyenler zevklerine göre yer seçip arayışlarına devam edebiliyorlar.
